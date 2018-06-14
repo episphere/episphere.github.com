@@ -1,0 +1,27 @@
+{
+  "name": "episphere",
+  "version": "0.0.1",
+  "description": "Web operation of Cancer Epidemiology Commons",
+  "main": "epi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/episphere/episphere.github.com.git"
+  },
+  "keywords": [
+    "epidemiology",
+    "cancer",
+    "precision",
+    "prevention",
+    "cancer",
+    "commons"
+  ],
+  "author": "Jonas Almeida <jalmeida@mathbiol.org> (http://jonasalmeida.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/episphere/episphere.github.com/issues"
+  },
+  "homepage": "https://github.com/episphere/episphere.github.com#readme"
+}

@@ -1,2 +1,2 @@
-# episphere.github.com
-landing page for the epiSphere initiative
+# epiSphere
+Web operators for Cancer Epidemiology Commons
