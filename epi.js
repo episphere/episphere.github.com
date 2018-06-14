@@ -9,15 +9,17 @@ epi=function(){
 
     // ini
     console.log('ini at '+Date())
-    if(document.getElementById('epiSphereDiv')){ // project landing page
-        let div=document.getElementById('epiSphereDiv')
-        let h = '<hr>'
-        h += '<h2><i id="epiSphereCloudIcon" class="fab fa-mixcloud"></i>epiSphere <a href="https://github.com/episphere" target="_blank"><i class="fab fa-github-alt" style="font-size:x-large;color:green"></i></a></h2>'
-        h += '<hr>'
-        h += '<div class="row"><div class="col-lg">'
-        h += '<div class="row"><p style="font-size:large"><b>Cancer Epidemiology Commons</b><br>For opensource Web-based tools operating cancer epidemiology data in the <a href="#">eS Cloud (<i class="fab fa-mixcloud"></i>)</a> open Developer Tools (Chrome preferred) or load library from <a href="https://www.npmjs.com/package/episphere" target="_blank">npm</a>. For more information, including APIs and SDKs for specialized languages such as R and Python, see <a href="https://github.com/episphere/episphere.github.com/wiki" target="_blank">wiki</a>.</p>'
-        h += '</div></div>'
-        div.innerHTML=h
+    if(typeof(document)=='object'){
+        if(document.getElementById('epiSphereDiv')){ // project landing page
+            let div=document.getElementById('epiSphereDiv')
+            let h = '<hr>'
+            h += '<h2><i id="epiSphereCloudIcon" class="fab fa-mixcloud"></i>epiSphere <a href="https://github.com/episphere" target="_blank"><i class="fab fa-github-alt" style="font-size:x-large;color:green"></i></a></h2>'
+            h += '<hr>'
+            h += '<div class="row"><div class="col-lg">'
+            h += '<div class="row"><p style="font-size:large"><b>Cancer Epidemiology Commons</b><br>For opensource Web-based tools operating cancer epidemiology data in the <a href="#">eS Cloud (<i class="fab fa-mixcloud"></i>)</a> open Developer Tools (Chrome preferred) or load library from <a href="https://www.npmjs.com/package/episphere" target="_blank">npm</a>. For more information, including APIs and SDKs for specialized languages such as R and Python, see <a href="https://github.com/episphere/episphere.github.com/wiki" target="_blank">wiki</a>.</p>'
+            h += '</div></div>'
+            div.innerHTML=h
+        }
     }
 }
 
