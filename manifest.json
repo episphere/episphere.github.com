@@ -1,6 +1,9 @@
 {
- "name": "epiSphere",
- "icons": [
+  "lang": "en",
+  "name": "epiSphere of Cloud-hosted Epidemiological Commons",
+  "short_name": "epiSphere",
+  "name": "epiSphere",
+  "icons": [
   {
    "src": "\/icon/android-icon-36x36.png",
    "sizes": "36x36",
@@ -37,5 +40,7 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ]
+ ],
+ "start_url": "https://episphere.github.io/index.html",
+ "display": "fullscreen"
 }
