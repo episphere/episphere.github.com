@@ -32,25 +32,29 @@ epi.range=(n,f)=>{
 
 
 // ini
-if(typeof(define)!=='undefined'){
+if(typeof(define)!=='undefined'){ // if called as a package
     define(epi)
 }else{
-    epi()
-    let icon=document.getElementById("epiSphereCloudIcon")
-    let color0=icon.style.color
-    epi.blink=setInterval(()=>{
-            var icon=document.getElementById("epiSphereCloudIcon")
-            var color0=icon.style.color
-            setTimeout(()=>{
-                icon.style.color='LightBlue'
+    if(typeof(document)!=='undefined'){ // if this is a browser
+        epi()
+        let icon=document.getElementById("epiSphereCloudIcon")
+        let color0=icon.style.color
+        epi.blink=setInterval(()=>{
                 setTimeout(()=>{
-                    icon.style.color=color0
+                    icon.style.color='LightBlue'
+                    setTimeout(()=>{
+                        icon.style.color=color0
+                    },500)
                 },500)
-            },500)
 
-        },2000)
-    icon.onclick=()=>{
-        clearInterval(epi.blink)
+            },2000)
+        icon.onclick=()=>{
+            icon.style.color='red'
+            clearInterval(epi.blink)
+            setTimeout(()=>{
+                icon.style.color=color0
+            },500)
+        }
     }
 }
  
