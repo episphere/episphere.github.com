@@ -13,7 +13,9 @@ epi=function(){
         let div=document.getElementById('epiSphereDiv')
         let h = '<h2>epiSphere <a href="https://github.com/episphere" target="_blank"><i id="lala" class="fab fa-github-alt" style="font-size:x-large;color:green"></i></a></h2>'
         h += '<hr>'
-        h += '<p><b>Cancer Epidemiology Commons.</b> For opensource Web-based tools operating cancer epidemiology data in the <a href="#">eS Cloud</a> open Developer Tools (Chrome preferred) or load library from <a href="#">npm</a>. For more information, including APIs and SDKs for specialized languages such as R and Python, see <a href="#">wiki</a>.</p>'
+        h += '<div class="row"><div class="col">'
+        h += '<div class="row"><p style="font-size:large"><b>Cancer Epidemiology Commons.</b> For opensource Web-based tools operating cancer epidemiology data in the <a href="#">eS Cloud</a> open Developer Tools (Chrome preferred) or load library from <a href="#">npm</a>. For more information, including APIs and SDKs for specialized languages such as R and Python, see <a href="#">wiki</a>.</p>'
+        h += '</div></div>'
         div.innerHTML=h
     }
 }
