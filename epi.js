@@ -1,6 +1,6 @@
 // core library of the epiSphere project
 
-console.log('epi.js loaded')
+console.log('epi.js loaded');
 
 
 // as a constructor, good place for methods with state dependencies
@@ -57,6 +57,14 @@ if(typeof(define)!=='undefined'){ // if called as a package
                 icon.style.color=color0
             },500)
         }
+    }else if(typeof(module)=='object'){
+        //exports.hello = () => {
+        //    console.log('saying hello …');
+        //}
+        //exports.Epi=epi
+        exports.range=epi.range
+        //exports.created=epi.created
+        
     }
 }
  

@@ -1,6 +1,6 @@
 {
   "name": "episphere",
-  "version": "0.0.5",
+  "version": "0.0.12",
   "description": "Web operation of Cancer Epidemiology Commons",
   "main": "epi.js",
   "scripts": {
