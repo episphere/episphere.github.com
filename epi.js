@@ -18,6 +18,11 @@ epi=function(){
             h += '<div class="row"><div class="col-lg">'
             h += '<div class="row"><p style="font-size:large"><b>Cancer Epidemiology Commons</b><br>For opensource Web-based tools operating cancer epidemiology data in the <a href="https://github.com/episphere" target="_blank">eS Cloud (<i class="fab fa-mixcloud"></i>)</a> open Developer Tools (Chrome preferred) or load library from <a href="https://www.npmjs.com/package/episphere" target="_blank">npm</a>. For more information, including APIs and SDKs for specialized languages such as R and Python, see <a href="https://github.com/episphere/episphere.github.com/wiki" target="_blank">wiki</a>.</p>'
             h += '</div></div>'
+            h += '<div>'
+            h += '<li><a href="episphere.mathbiol.io/drive" target="_blank">epiDrive</a> [early stage of develoment].</li>'
+            h += '<li>Participant app [planning stage].</li>'
+            h += '<li>...</li>'
+            h += '</div>'
             div.innerHTML=h
         }
     }
