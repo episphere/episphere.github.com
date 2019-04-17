@@ -1,5 +1,5 @@
 # epiSphere
-Data Science applications for precision prevention towards Epidemioly Data Commons
+Portable Data Science Applications for Cancer Precision Prevention.
 
 [https://episphere.github.io](https://episphere.github.io)
 
