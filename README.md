@@ -1,7 +1,7 @@
 # epiSphere
 Portable Data Science Applications for Cancer Precision Prevention.
 
-[episphere.github.io](https://episphere.github.io), NCI/DCEG [positions opened](https://dceg.cancer.gov/fellowship-training/become-a-fellow/research-training-areas/data-science-fellowships).
+[episphere.github.io](https://episphere.github.io), NCI/DCEG [positions opened](https://dceg.cancer.gov/fellowship-training/become-a-fellow/research-training-areas/data-science-fellowships), [pdf](https://episphere.github.io/AD-Hire-Flyer-DCEG-Data%20Science-March2019.pdf).
 
 ## Connect
 Cancer Precision Prevention places an increasing focus on data-intensive platforms that can reach, and can be engaged, as consumer-facing digital applications. Ultimately, the emergence of a *Learning Health Care System* is orchestrated by computational systems that orchestrate both medical reccords and consumer-facing services, from wearable sensors to genomics. A new generation of cohort studies, such as [NCI/DCEG Connect](https://dceg.cancer.gov/research/who-we-study/cohorts/connect), is being designed accordingly. 
