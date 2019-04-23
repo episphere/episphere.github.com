@@ -12,5 +12,5 @@ Identifying novel algorithms and designing Web Applications backed by Cloud host
 ## Code
 Open-source code repositories at [github.com/episphere](https://github.com/episphere/).
 
-## Where
+## Who, Where
 EpiSphere is a software engineering research project of the [Data Science Group](https://dceg.cancer.gov/about/organization/programs-ebp/datascience) at Division of Cancer Epidemiology and Genetics(DCEG) of the National Cancer Institute (NIH.NCI). 
