@@ -7,7 +7,7 @@ Portable Data Science Applications for Cancer Precision Prevention.
 Cancer Precision Prevention places an increasing focus on data-intensive platforms that can reach, and can be engaged, as consumer-facing digital applications. Ultimately, the emergence of a *Learning Health Care System* is orchestrated by computational systems that orchestrate both medical reccords and consumer-facing services, from wearable sensors to genomics. A new generation of cohort studies, such as [NCI/DCEG Connect](https://dceg.cancer.gov/research/who-we-study/cohorts/connect), is being designed accordingly.
 
 ## Confluence
-*BigData* designates the computational aggregation of large volumes of diverse data and diverse analytical environments in order to make the mostof ...
+*BigData* designates the computational aggregation of large volumes of diverse data and diverse analytical environments in order to enable comprehensive integrative analysis. Even more than the logistic challanges, BigData typically has to navigate complex governance and complaince landscapes that can only be accomplished in Cloud Computing environments. [Confluence](https://dceg.cancer.gov/research/cancer-types/breast-cancer/confluence-project) is an international initiative aggregating data on 300k control and 300k breast cancer cases.
 
 ## Commons
 Identifying novel algorithms and designing Web Applications backed by Cloud hosted APIs is the [upbiquitous technology stack](https://cloud4bio.github.io). EpiSphere seeks to integrate a multitude of health data streams generated and consumed in real time with the goal of contextualization of individual observatin by reference BigData. This process defines the API ecosystems of Epidemiology Data Commons.
