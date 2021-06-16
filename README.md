@@ -13,7 +13,17 @@ The data platform developed for Confluence is being abstracted into a [distribut
 ## Commons
 Identifying novel algorithms and designing Web Applications backed by Cloud hosted APIs is the [upbiquitous technology stack](https://cloud4bio.github.io). EpiSphere seeks to integrate a multitude of health data streams generated and consumed in real time with the goal of contextualization of individual observatin by reference BigData. This process defines the API ecosystems of Epidemiology Data Commons.
 
-## 
+#### Digital Pathology (patterns)
+
+[epiPath](https://episphere.github.io/path), [imageBox](https://pubmed.ncbi.nlm.nih.gov/33163255/), Active Learning (in press)
+
+#### Mortality tracker (time series)
+
+[J. Bioinformatics PMID:33135727](https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States)
+
+#### MutationSignature (bioinformatics)
+
+under development 
 
 ## Code
 Open-source code repositories at [github.com/episphere](https://github.com/episphere/).
