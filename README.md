@@ -20,9 +20,11 @@ Identifying novel algorithms and designing Web Applications backed by Cloud host
 
 [epiPath](https://episphere.github.io/path), [imageBox](https://pubmed.ncbi.nlm.nih.gov/33163255/), Active Learning (in press)
 
-#### Mortality tracker (time series)
+#### Time series
 
-[J. Bioinformatics PMID:33135727](https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States)
+Mortality tracker - [J. Bioinformatics PMID:33135727](https://episphere.github.io/mortalitytracker/#cause=allcause&state=All%20States)
+
+Wearables
 
 #### MutationSignature (bioinformatics)
 
