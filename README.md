@@ -7,8 +7,13 @@ Cancer Precision Prevention places an increasing focus on data-intensive platfor
 ## Confluence
 *BigData* designates the computational aggregation of large volumes of diverse data and diverse analytical environments in order to enable comprehensive integrative analysis. Even more than the logistic challanges, BigData typically has to navigate complex governance and complaince landscapes that can only be accomplished in Cloud Computing environments. [Confluence](https://dceg.cancer.gov/research/cancer-types/breast-cancer/confluence-project) is an international initiative aggregating data on 300k control and 300k breast cancer cases.
 
+#### FAIR Data Platform
+The data platform developed for Confluence is being abstracted into a [distributed FAIR data platform](https://docs.google.com/document/d/1t-A7UTcdSqrxZcw7_Is4v_Lr6cuDPZ3rOEX20u4MRZU) for cohort studies. 
+
 ## Commons
 Identifying novel algorithms and designing Web Applications backed by Cloud hosted APIs is the [upbiquitous technology stack](https://cloud4bio.github.io). EpiSphere seeks to integrate a multitude of health data streams generated and consumed in real time with the goal of contextualization of individual observatin by reference BigData. This process defines the API ecosystems of Epidemiology Data Commons.
+
+## 
 
 ## Code
 Open-source code repositories at [github.com/episphere](https://github.com/episphere/).
