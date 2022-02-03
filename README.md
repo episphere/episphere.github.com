@@ -1,7 +1,7 @@
 
 <h1 style="color:maroon"> Data Science and Engineering @ DCEG</h1>
 
-<h3> Ask us not what Data Science can do for you,<br> but what you can do for the Science of your Data
+<h3> <i>Ask us not what Data Science can do for you,<br> but what you can do for the Science of your Data</i>
   <p>We’ll help :-)</p> </h3>
 
 # [epiSphere](https://episphere.github.io)
