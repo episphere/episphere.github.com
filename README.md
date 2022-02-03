@@ -1,6 +1,9 @@
 
 <h1 style="color:maroon"> Data Science and Engineering @ DCEG</h1>
 
+<h3> Ask us not what Data Science can do for you,<br> but what you can do for the Science of your Data
+  <p>We’ll help :-)</p> </h3>
+
 # [epiSphere](https://episphere.github.io)
 Portable Data Science Applications for Cancer Precision Prevention. For [positions opened](https://dceg.cancer.gov/fellowship-training/become-a-fellow/research-training-areas/data-science-fellowships) see also <a href="https://episphere.github.io/AD-Hire-Flyer-DCEG-DataScience-March2019.pdf" target="_blank">pdf</a>. Prospective intership candidate are typically challenged by a **[test project](https://github.com/episphere/internshipChallenge)** which is then discussed in the selection interview.
 
