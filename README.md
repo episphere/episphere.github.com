@@ -4,7 +4,7 @@
 <h3> <i>Ask us not what Data Science can do for you,<br> but what you can do for the Science of your Data</i>
   <p>We’ll help :-)</p> </h3>
   
-### Mission statement
+## Mission statement
 To advance *Data Science and Engineering* for Precision Epidemiology through the development of Computational Commons.
 ### Goals
 The main goal of the Data Science Group is to accelerate the investigation of epidemiologic and genetic causes of cancer, and to advance Cloud Computing infrastructure for Precision Prevention. These two aims are pursued as a multidisciplinary research program that combines systems biology, computational statistics, artificial intelligence, and software engineering for biomedical applications.
